@@ -1,6 +1,6 @@
 ---
 type: PostLayout
-title: Fun2
+title: Fun3
 date: '2023-03-27'
 author: content/data/person2.json
 excerpt: >-
