@@ -20,7 +20,7 @@ sections:
     actions:
       - label: Get started
         altText: ''
-        url: /pricing
+        url: /#Past Projects
         showIcon: false
         icon: arrowRight
         iconPosition: right
