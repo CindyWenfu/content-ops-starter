@@ -7,7 +7,7 @@ sections:
       text: I love UX Research!
       color: text-dark
       type: TitleBlock
-    subtitle: Subtitle goes here
+    subtitle: Hi! I am Cindy.
     text: >
       I’m a UX Researcher and people leader passionate about turning insights
       into impact. My work spans end-to-end research, strategy, and team
