@@ -4,7 +4,7 @@ slug: /
 sections:
   - type: GenericSection
     title:
-      text: Research Drives Impacts
+      text: "\U0001F64B\U0001F3FB‍♀️Hi! I am Cindy."
       color: text-dark
       type: TitleBlock
     subtitle: ''
