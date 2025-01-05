@@ -95,6 +95,7 @@ sections:
           textAlign: center
     posts:
       - content/pages/blog/pl1.md
+      - content/pages/blog/pl2.md
       - content/pages/blog/surround-yourself-with-right-people.md
       - content/pages/blog/top-twenty-ways-to-save-time.md
     showThumbnail: true
