@@ -38,7 +38,7 @@ sections:
         type: Link
     media:
       url: /images/Relax.jpg
-      altText: Unblock your team boost your time to production preview
+      altText: Cindy's phoyo
       elementId: ''
       type: ImageBlock
     badge:
