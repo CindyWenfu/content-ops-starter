@@ -37,7 +37,7 @@ sections:
         elementId: ''
         type: Link
     media:
-      url: /images/Relax photo resized small.jpg
+      url: /images/Relax photo resized.jpg
       altText: Unblock your team boost your time to production preview
       elementId: ''
       type: ImageBlock
