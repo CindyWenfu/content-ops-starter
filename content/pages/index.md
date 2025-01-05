@@ -9,9 +9,14 @@ sections:
       type: TitleBlock
     subtitle: Subtitle goes here
     text: >
-      A Netlify Create website is a git repo that you own. Every code commit is
-      instantly reflected in the visual editor and since every visual edit is a
-      git commit, git workflows and collaboration just work.
+      I’m a UX Researcher and people leader passionate about turning insights
+      into impact. My work spans end-to-end research, strategy, and team
+      leadership, driving user-centered innovation and collaboration. Whether
+      influencing stakeholders, facilitating workshops, or shaping product
+      experiences, I’m dedicated to creating meaningful change through research.
+
+
+      Explore my portfolio to see how I connect insights to action.
     actions:
       - label: Get started
         altText: ''
