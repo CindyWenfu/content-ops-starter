@@ -32,7 +32,7 @@
         {
             "label": "Research Fun",
             "altText": "Careers page",
-            "url": "/careers",
+            "url": "/#Research Fun",
             "icon": "arrowRight",
             "iconPosition": "right",
             "style": "secondary",
