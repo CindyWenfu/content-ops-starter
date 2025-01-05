@@ -1,6 +1,6 @@
 ---
 title: Case 2
-slug: surround-yourself-with-right-people
+slug: Case-2
 date: '2023-03-26'
 excerpt: >-
   Facilisis dui. Nulla molestie risus in mi dapibus, eget porta lorem semper.
