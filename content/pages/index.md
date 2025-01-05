@@ -88,7 +88,7 @@ sections:
   - type: FeaturedPostsSection
     title:
       type: TitleBlock
-      text: People Leadership
+      text: "\U0001F64B\U0001F3FB‍♀️People Leadership"
       color: text-dark
       styles:
         self:
