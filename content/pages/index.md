@@ -9,11 +9,11 @@ sections:
       type: TitleBlock
     subtitle: ''
     text: >
-      I’m a UX Researcher and people leader passionate about turning insights
-      into impact. My work spans end-to-end research, strategy, and team
-      leadership, driving user-centered innovation and collaboration. Whether
-      influencing stakeholders, facilitating workshops, or shaping product
-      experiences, I’m dedicated to creating meaningful change through research.
+      I’m a UX Researcher passionate about turning insights into impact. My work
+      spans end-to-end research, strategy, and team leadership, driving
+      user-centered innovation and collaboration. Whether influencing
+      stakeholders, facilitating workshops, or shaping product experiences, I’m
+      dedicated to creating meaningful change through research.
 
 
       Explore my portfolio to see how I connect insights to action.
