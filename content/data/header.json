@@ -14,7 +14,7 @@
     "primaryLinks": [
         {
             "label": "Pricing",
-            "url": "/key-benefits",
+            "url": "/#key-benefits",
             "icon": "arrowRight",
             "iconPosition": "right",
             "style": "secondary",
