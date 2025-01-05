@@ -68,7 +68,6 @@ sections:
       - content/pages/blog/case-study-1.md
       - content/pages/blog/case-study-2.md
       - content/pages/blog/case-study-3.md
-      - content/pages/blog/top-twenty-ways-to-save-time.md
     showThumbnail: true
     showExcerpt: true
     showDate: true
