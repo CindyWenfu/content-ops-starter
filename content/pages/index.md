@@ -94,7 +94,6 @@ sections:
         self:
           textAlign: center
     posts:
-      - content/pages/blog/life-of-our-development-team.md
       - content/pages/blog/pl1.md
       - content/pages/blog/surround-yourself-with-right-people.md
       - content/pages/blog/top-twenty-ways-to-save-time.md
