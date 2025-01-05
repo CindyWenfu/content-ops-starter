@@ -89,35 +89,6 @@ sections:
           - pb-16
           - pr-16
         justifyContent: center
-  - type: FeaturedPostsSection
-    title:
-      type: TitleBlock
-      text: "\U0001F5C2️Past Projects"
-      color: text-dark
-      styles:
-        self:
-          textAlign: center
-    posts:
-      - content/pages/blog/case-study-1.md
-      - content/pages/blog/case-study-2.md
-      - content/pages/blog/case-study-3.md
-    showThumbnail: true
-    showExcerpt: true
-    showDate: true
-    showAuthor: true
-    actions: []
-    elementId: Past Projects
-    variant: three-col-grid
-    colors: bg-light-fg-dark
-    hoverEffect: thin-underline
-    styles:
-      self:
-        padding:
-          - pt-16
-          - pl-16
-          - pb-16
-          - pr-16
-        justifyContent: center
   - type: DividerSection
     title: Divider
     elementId: ''
