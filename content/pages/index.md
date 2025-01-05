@@ -127,7 +127,7 @@ sections:
   - type: FeaturedPostsSection
     title:
       type: TitleBlock
-      text: Featured posts
+      text: Research Fun
       color: text-dark
       styles:
         self:
