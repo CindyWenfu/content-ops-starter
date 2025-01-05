@@ -59,7 +59,7 @@ sections:
   - type: FeaturedPostsSection
     title:
       type: TitleBlock
-      text: Featured posts
+      text: Past Projects
       color: text-dark
       styles:
         self:
