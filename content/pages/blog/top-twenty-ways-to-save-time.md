@@ -7,12 +7,12 @@ excerpt: >-
   aut voluptas dolores qui aperiam laborum ut ullam consequatur ut quia
   consequatur cum inventore voluptas sed impedit asperiores!
 featuredImage:
-  url: /images/abstract-feature2.svg
   altText: Thumbnail
   type: ImageBlock
   styles:
     self:
       borderRadius: medium
+  url: /images/abstract-feature1.svg
 seo:
   metaTitle: Top 20 Ways to Save Time at Work This Year
   metaDescription: You can add the excerpt and main keywords of your blog post here.

@@ -18,8 +18,8 @@
                 "type": "Link"
             },
             {
-                "label": "Pricing",
-                "url": "/pricing",
+                "label": "Past Projects",
+                "url": "/#Past Projects",
                 "icon": "arrowRight",
                 "iconPosition": "right",
                 "style": "secondary",
@@ -74,7 +74,7 @@
         },
         {
             "altText": "LinkedIn link",
-            "url": "https://www.linkedin.com/company/netlify",
+            "url": "https://www.linkedin.com/in/xuewenwenfu/",
             "icon": "linkedin",
             "type": "Social"
         },

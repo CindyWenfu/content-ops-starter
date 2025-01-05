@@ -1,30 +1,32 @@
 ---
-title: Case 1
-slug: life-of-our-development-team
+type: PostLayout
+title: PL1
 date: '2023-03-27'
+author: content/data/person2.json
 excerpt: >-
   Vel repellat dolores ut unde voluptatum ut optio voluptates est aliquid. Ut
   earum corporis id Quis esse est galisum officiis accusantium enim et
   asperiores dolore.
 featuredImage:
+  type: ImageBlock
   url: /images/abstract-feature3.svg
   altText: Thumbnail
-  type: ImageBlock
   styles:
     self:
       borderRadius: medium
+bottomSections: []
+slug: PL1
+isFeatured: false
 seo:
+  type: Seo
   metaTitle: A Day in the Life of Our Development Team
   metaDescription: You can add the excerpt and main keywords of your blog post here.
   socialImage: /images/abstract-feature3.svg
-  type: Seo
+  metaTags: []
 colors: bg-light-fg-dark
-type: PostLayout
-author: content/data/person2.json
 styles:
   self:
     flexDirection: col
-isFeatured: false
 ---
 
 Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Laoreet sit amet cursus sit amet dictum sit. Duis ut diam quam nulla porttitor massa id neque. Ut tortor pretium viverra suspendisse potenti nullam. Auctor elit sed vulputate mi sit amet mauris commodo. Dui ut ornare lectus sit amet est placerat. Et malesuada fames ac turpis. Nunc vel risus commodo viverra maecenas accumsan lacus vel. Varius morbi enim nunc faucibus a pellentesque. Erat imperdiet sed euismod nisi porta. Viverra maecenas accumsan lacus vel facilisis volutpat est velit egestas. Dui ut ornare lectus sit amet est placerat in. Vitae sapien pellentesque habitant morbi tristique senectus et netus et. Nullam vehicula ipsum a arcu cursus vitae congue mauris.
