@@ -12,6 +12,7 @@ featuredImage:
   styles:
     self:
       borderRadius: medium
+  url: /images/abstract-feature1.svg
 seo:
   metaTitle: Top 20 Ways to Save Time at Work This Year
   metaDescription: You can add the excerpt and main keywords of your blog post here.
