@@ -97,7 +97,6 @@ sections:
       - content/pages/blog/pl1.md
       - content/pages/blog/pl2.md
       - content/pages/blog/pl3.md
-      - content/pages/blog/fun3.md
     showThumbnail: true
     showExcerpt: true
     showDate: true
