@@ -19,7 +19,7 @@
             },
             {
                 "label": "Past Projects",
-                "url": "/pricing",
+                "url": "/#Past Projects",
                 "icon": "arrowRight",
                 "iconPosition": "right",
                 "style": "secondary",
