@@ -73,7 +73,7 @@ sections:
     showDate: true
     showAuthor: true
     actions: []
-    elementId: ''
+    elementId: Past Projects
     variant: three-col-grid
     colors: bg-light-fg-dark
     hoverEffect: thin-underline
