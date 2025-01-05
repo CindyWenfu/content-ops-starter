@@ -4,7 +4,7 @@ slug: /
 sections:
   - type: GenericSection
     title:
-      text: I love UX Research!
+      text: Research Drives Impacts
       color: text-dark
       type: TitleBlock
     subtitle: "\U0001F64B\U0001F3FB‍♀️Hi! I am Cindy."
