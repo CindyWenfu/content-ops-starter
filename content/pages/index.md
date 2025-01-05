@@ -18,7 +18,7 @@ sections:
 
       Explore my portfolio to see how I connect insights to action.
     actions:
-      - label: Get started
+      - label: Past Projects
         altText: ''
         url: /#Past Projects
         showIcon: false
