@@ -223,6 +223,7 @@ sections:
         justifyContent: center
     type: FeaturedPostsSection
     hoverEffect: move-up
+    elementId: Past Projects
   - title: Divider
     colors: bg-light-fg-dark
     styles:
