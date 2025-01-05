@@ -141,7 +141,7 @@ sections:
     showDate: true
     showAuthor: true
     actions: []
-    elementId: ''
+    elementId: Research Fun
     variant: three-col-grid
     colors: bg-light-fg-dark
     hoverEffect: thin-underline
