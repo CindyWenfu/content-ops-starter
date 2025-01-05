@@ -23,7 +23,7 @@
         {
             "label": "People Leadership",
             "altText": "Blog",
-            "url": "/blog",
+            "url": "/#People Leadership",
             "icon": "arrowRight",
             "iconPosition": "right",
             "style": "secondary",
