@@ -102,7 +102,7 @@ sections:
     showDate: true
     showAuthor: true
     actions: []
-    elementId: ''
+    elementId: People Leadership
     variant: three-col-grid
     colors: bg-light-fg-dark
     hoverEffect: thin-underline
