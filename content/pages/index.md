@@ -38,7 +38,7 @@ sections:
         type: Link
     media:
       url: /images/Relax.jpg
-      altText: Cindy's phoyo
+      altText: Cindy's photo
       elementId: ''
       type: ImageBlock
     badge:
