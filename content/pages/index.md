@@ -137,6 +137,7 @@ sections:
     posts:
       - content/pages/blog/fun1.md
       - content/pages/blog/fun2.md
+      - content/pages/blog/fun3.md
       - content/pages/blog/life-of-our-development-team.md
       - content/pages/blog/surround-yourself-with-right-people.md
       - content/pages/blog/top-twenty-ways-to-save-time.md
