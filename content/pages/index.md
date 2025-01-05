@@ -33,7 +33,7 @@ sections:
       elementId: ''
       type: ImageBlock
     badge:
-      label: "\U0001F44B"
+      label: ''
       color: text-primary
       type: Badge
     elementId: ''
