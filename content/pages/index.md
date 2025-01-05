@@ -4,7 +4,7 @@ slug: /
 sections:
   - type: GenericSection
     title:
-      text: Hello from Cindy!
+      text: "\U0001F44BHello from Cindy!"
       color: text-dark
       type: TitleBlock
     subtitle: ''
