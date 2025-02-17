@@ -9,7 +9,7 @@ excerpt: >-
   team’s growth.
 featuredImage:
   type: ImageBlock
-  url: /images/abstract-feature3.svg
+  url: /images/Career growth.jpg
   altText: Thumbnail
   styles:
     self:
