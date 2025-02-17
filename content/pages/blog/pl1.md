@@ -1,7 +1,7 @@
 ---
 type: PostLayout
 title: 'Empowering Your Team: Practical Ways to Support Career Development'
-date: '2023-03-27'
+date: '2025-02-16'
 author: content/data/person2.json
 excerpt: >-
   Vel repellat dolores ut unde voluptatum ut optio voluptates est aliquid. Ut
