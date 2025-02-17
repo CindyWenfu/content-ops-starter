@@ -1,6 +1,6 @@
 ---
 type: PostLayout
-title: PL1
+title: 'Empowering Your Team: Practical Ways to Support Career Development'
 date: '2023-03-27'
 author: content/data/person2.json
 excerpt: >-
