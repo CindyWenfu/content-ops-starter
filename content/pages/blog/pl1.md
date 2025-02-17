@@ -5,7 +5,8 @@ date: '2025-02-16'
 author: content/data/person2.json
 excerpt: >-
   Supporting my team’s career growth is one of the most rewarding and exciting
-  aspects of people leadership.
+  aspects of people leadership. Here are some strategies I’ve used to support my
+  team’s growth.
 featuredImage:
   type: ImageBlock
   url: /images/abstract-feature3.svg
