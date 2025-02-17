@@ -9,7 +9,7 @@ excerpt: >-
   team’s growth.
 featuredImage:
   type: ImageBlock
-  url: /images/Career growth.jpg
+  url: /images/Green White Plant Illustration Group Project Presentation.jpg
   altText: Thumbnail
   styles:
     self:
