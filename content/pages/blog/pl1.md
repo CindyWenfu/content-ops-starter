@@ -4,9 +4,8 @@ title: 'Empowering Your Team: Practical Ways to Support Career Development'
 date: '2025-02-16'
 author: content/data/person2.json
 excerpt: >-
-  Vel repellat dolores ut unde voluptatum ut optio voluptates est aliquid. Ut
-  earum corporis id Quis esse est galisum officiis accusantium enim et
-  asperiores dolore.
+  Supporting my team’s career growth is one of the most rewarding and exciting
+  aspects of people leadership.
 featuredImage:
   type: ImageBlock
   url: /images/abstract-feature3.svg
