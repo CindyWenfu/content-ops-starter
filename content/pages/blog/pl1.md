@@ -1,15 +1,15 @@
 ---
 type: PostLayout
-title: PL1
-date: '2023-03-27'
+title: 'Empowering Your Team: Practical Ways to Support Career Development'
+date: '2025-02-16'
 author: content/data/person2.json
 excerpt: >-
-  Vel repellat dolores ut unde voluptatum ut optio voluptates est aliquid. Ut
-  earum corporis id Quis esse est galisum officiis accusantium enim et
-  asperiores dolore.
+  Supporting my team’s career growth is one of the most rewarding and exciting
+  aspects of people leadership. Here are some strategies I’ve used to support my
+  team’s growth.
 featuredImage:
   type: ImageBlock
-  url: /images/abstract-feature3.svg
+  url: /images/Green White Plant Illustration Group Project Presentation.jpg
   altText: Thumbnail
   styles:
     self:
@@ -28,11 +28,44 @@ styles:
   self:
     flexDirection: col
 ---
+Supporting my team’s career growth is one of the most rewarding and exciting aspects of people leadership. It’s not just about helping them advance—it’s about empowering them to reach their full potential, building trust, and creating a culture of growth and opportunity. When we invest in the team’s development, we’re not only shaping their future but also strengthening the foundation of the team.
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Laoreet sit amet cursus sit amet dictum sit. Duis ut diam quam nulla porttitor massa id neque. Ut tortor pretium viverra suspendisse potenti nullam. Auctor elit sed vulputate mi sit amet mauris commodo. Dui ut ornare lectus sit amet est placerat. Et malesuada fames ac turpis. Nunc vel risus commodo viverra maecenas accumsan lacus vel. Varius morbi enim nunc faucibus a pellentesque. Erat imperdiet sed euismod nisi porta. Viverra maecenas accumsan lacus vel facilisis volutpat est velit egestas. Dui ut ornare lectus sit amet est placerat in. Vitae sapien pellentesque habitant morbi tristique senectus et netus et. Nullam vehicula ipsum a arcu cursus vitae congue mauris.
+Here are some strategies I’ve used to support my team’s growth—and how you can too:
 
-Aenean sed adipiscing diam donec. Id donec ultrices tincidunt arcu non sodales. Orci ac auctor augue mauris augue neque gravida in. Mattis enim ut tellus elementum sagittis vitae et leo duis. Tortor pretium viverra suspendisse potenti nullam. Malesuada proin libero nunc consequat. Commodo viverra maecenas accumsan lacus vel facilisis volutpat est velit. Mauris vitae ultricies leo integer malesuada nunc. Eget magna fermentum iaculis eu. Molestie at elementum eu facilisis. Dui faucibus in ornare quam viverra orci sagittis. Aliquam ultrices sagittis orci a scelerisque purus semper eget.
+**1. Leverage Internal Opportunities**
 
-Tellus mauris a diam maecenas sed enim. Enim facilisis gravida neque convallis a cras. Sollicitudin nibh sit amet commodo nulla facilisi. Ultrices mi tempus imperdiet nulla malesuada pellentesque. Semper viverra nam libero justo laoreet sit. Vestibulum sed arcu non odio euismod lacinia at quis risus. Viverra ipsum nunc aliquet bibendum enim facilisis gravida neque convallis. Aliquam sem et tortor consequat id porta nibh venenatis cras. Et leo duis ut diam quam nulla porttitor massa id. Sagittis vitae et leo duis ut diam quam. Vitae aliquet nec ullamcorper sit amet. Egestas egestas fringilla phasellus faucibus. Elit pellentesque habitant morbi tristique senectus et netus et. Sagittis purus sit amet volutpat consequat mauris nunc. Commodo odio aenean sed adipiscing. Aliquet eget sit amet tellus cras adipiscing. Odio pellentesque diam volutpat commodo sed egestas egestas fringilla phasellus. Justo eget magna fermentum iaculis eu non.
+Even if your team members aren’t yet in people leadership roles, there are ways to give them some exposure to what it’s like to lead. These opportunities can spark their confidence and prepare them for future challenges:
 
-Mi quis hendrerit dolor magna. Vel facilisis volutpat est velit egestas dui id ornare arcu. Sed sed risus pretium quam vulputate. Quam viverra orci sagittis eu volutpat odio facilisis mauris. Enim eu turpis egestas pretium. Lorem ipsum dolor sit amet consectetur adipiscing elit duis. Turpis egestas pretium aenean pharetra magna ac. Enim diam vulputate ut pharetra sit amet aliquam id. Sapien nec sagittis aliquam malesuada bibendum arcu vitae elementum. Amet nulla facilisi morbi tempus. Aliquet bibendum enim facilisis gravida neque convallis. Nulla pharetra diam sit amet. Vitae nunc sed velit dignissim sodales ut.
+*   Involve them in hiring processes: Many organizations encourage non-leaders to participate in hiring decisions, such as reviewing resumes, selecting candidates, or hosting interviews. This gives them a firsthand look at the people leadership side of evaluating talent—and helps them feel more connected to the team’s success.
+
+<!---->
+
+*   Encourage certifications or training programs: At my workplace, there’s an internal program where associates can become certified behavioural interviewers. I encouraged my team to pursue this certification, and it’s been incredible to see them grow. They’ve gained confidence in conducting interviews, learned to identify top talent, and developed skills that will serve them well as future leaders.
+
+To make this happen, I tapped into my network of fellow leaders to create opportunities for my team to observe and co-host interviews under supervision. Seeing them step into these roles and thrive has been one of the most fulfilling parts of my job.
+
+
+**2. Utilize Available Benefits**
+
+Did you know that many organizations and governments offer benefits that can support your team’s professional development? These resources are often underutilized, but they can be game-changers for your team’s growth:
+
+*   Education funding at work: If your workplace offers education funding (whether full or partial subsidies), encourage your team to take advantage of it. I’ve found that many associates aren’t even aware of these benefits—or don’t realize how transformative they can be. From short courses to full certifications, there’s something for every budget and career goal. Helping my team identify and pursue these opportunities has been incredibly rewarding.
+
+<!---->
+
+*   Education assistance in your region: Don’t forget to explore local benefits! For instance, in Canada, adults can claim up to $500 per year in tax benefits for eligible education programs. If your team members express interest in furthering their education, encourage them to look into these opportunities. It’s a small step that can make a big difference.
+
+For both types of benefits, it’s important to work closely with HR or relevant departments to understand eligibility criteria and ensure your team members can access these resources.
+
+
+**Why This Matters**
+
+When you invest in your team’s growth, you’re doing more than just helping them advance—you’re showing them that you believe in their potential. You’re building a culture where learning and development are valued, and where everyone has the opportunity to thrive.
+
+Seeing my team members grow, take on new challenges, and achieve their goals has been one of the most inspiring parts of my leadership journey. It’s a reminder that when we lift others up, we all rise together.
+
+What strategies have you used to support your team’s career growth? I’d love to hear your stories and ideas—let’s keep the conversation going!
+
+
+
+
